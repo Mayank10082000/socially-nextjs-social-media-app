@@ -113,7 +113,7 @@ function NotificationsPage() {
                               <Image
                                 src={notification.post.image}
                                 alt="Post content"
-                                className="mt-2 rounded-md w-full max-w-[200px] h-auto object-cover"
+                                className="w-full h-auto object-cover"
                               />
                             )}
                           </div>
